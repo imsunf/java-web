@@ -1,0 +1,6 @@
+# Created by IDE
+.idea/
+*.iml
+.DS_Store
+
+out
